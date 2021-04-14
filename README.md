@@ -1,6 +1,5 @@
-# Loz 'Bey V12 Koruma Altyapı
+# Loz 'Bey v12 Koruma Botu Altyapı
 
-Çalınması Serbesttir.
-Hak Mak Yoktur.
+Sizlere Ücretsiz Bir Şekilde Sunulmuştur [Discord](https://discord.gg/cqah3FjXPa) Adresimiz.
 
-Doya Doya Kullanınız...
+![alt text](https://i.hizliresim.com/MuxgnU.png)
